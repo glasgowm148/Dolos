@@ -1,0 +1,13 @@
+{
+    "author" : ["MG"],
+    "install_msg" : "You've just installed the Dolos cog!\nUse `[p]dolos` to see a list of commands",
+    "name" : "Dolos",
+    "short" : "FakeNewsDetection",
+    "description" : "Use sentiment analysis and corpus comparison to check posted links.",
+    "required_cogs": {},
+    "requirements": [],
+    "min_bot_version": "3.1.8",
+    "max_bot_version": "0.0.0",
+    "tags": [],
+    "type": "COG"
+}

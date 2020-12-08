@@ -1,6 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
+<!--[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Stargazers][stars-shield]][stars-url]-->
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/glasgowm148/Dolos">
-    <img src="data/img/logo.png" alt="Logo" width="80" height="80">
+    <img src="dolos/data/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dolos</h3>
@@ -19,10 +19,10 @@
   <p align="center">
     A proof-of-concept fake news detection cog for RedBot
     <br />
-    <a href="https://github.com/glasgowm148/Dolos"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/glasgowm148/Dolos/dolos/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/glasgowm148/Dolos">View Demo</a>
+    <a href="https://github.com/glasgowm148/Dolos/data/demo">View Demo</a>
     ·
     <a href="https://github.com/glasgowm148/Dolos/issues">Report Bug</a>
     ·
@@ -63,17 +63,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`glasgowm148`, `Dolos`, ``, `markglasgow@gmail.com`, `Dolos`, `project_description`
+![Dolos Screen Shot][dolos/data/img/logo.png]
 
 
 ### Built With
 
-* []()
-* []()
+* []()[RedBot](https://github.com/Cog-Creators/Red-DiscordBot)
+* []()Pyenv + Python 3
 * []()
 
 
@@ -85,22 +81,44 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Red-Bot
+* Python
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/glasgowm148/Dolos.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+Here are the [Red](https://github.com/Cog-Creators/Red-DiscordBot) commands to add this repository (use your bot's prefix in place of `[p]`):
+```
+[p]load downloader
+[p]repo add CBD-Cogs https://github.com/glasgowm148/Dolos/
+```
+
+You may be prompted to respond with "I agree" after that.
+
+
+# Cogs
+
+You can install individual cogs like this:
+```
+[p]cog install CBD-Cogs [cog]
+```
+
+Just replace `[cog]` with the name of the cog you want to install.
+
+## Bio
+
+Add information to your player bio and lookup information others have shared.
+
+Bio is basically a key/value store for each user where the allowed keys are determined by server admins.
+
+### Commands
+
+| Command     | Description |
+| ----------- | ----------- |
+| `dolos`       | View all commands |
+| `board` | See the leaderboard |
+| `threshold` | Set the threshold at which links are deleted |
+
+
 
 
 
@@ -152,7 +170,7 @@ Project Link: [https://github.com/glasgowm148/Dolos](https://github.com/glasgowm
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* This project was initially built as part of Human Computer Interaction at The University of Glasgow
 * []()
 * []()
 
@@ -173,4 +191,4 @@ Project Link: [https://github.com/glasgowm148/Dolos](https://github.com/glasgowm
 [license-shield]: https://img.shields.io/github/license/glasgowm148/Dolos.svg?style=for-the-badge
 [license-url]: https://github.com/glasgowm148/Dolos/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/glasgowm148
+[linkedin-url]: https://www.linkedin.com/in/glasgowmark/
