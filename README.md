@@ -1,7 +1,7 @@
 <!--[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]-->
-[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]-->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -19,7 +19,7 @@
   <p align="center">
     A proof-of-concept fake news detection cog for RedBot
     <br />
-    <a href="https://github.com/glasgowm148/Dolos/dolos/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/glasgowm148/Dolos/tree/main/dolos/data/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/glasgowm148/Dolos/data/demo">View Demo</a>
@@ -98,21 +98,20 @@ You can install individual cogs like this:
 
 Just replace `[cog]` with the name of the cog you want to install.
 
-## Bio
+## Commands
 
-Add information to your player bio and lookup information others have shared.
-
-Bio is basically a key/value store for each user where the allowed keys are determined by server admins.
-
-### Commands
+### User Commands
 
 | Command     | Description |
 | ----------- | ----------- |
 | `dolos`       | View all commands |
 | `board` | See the leaderboard |
+| `question` | Ask a question and have it processed by a BERT Classifier |
+| `q` | Query a URL directly |
+
+### Staff Commands
 | `threshold` | Set the threshold at which links are deleted |
-
-
+| `mention` | Run Dolos in 'silent' mode |
 
 
 
