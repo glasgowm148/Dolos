@@ -179,9 +179,9 @@ Mark Glasgow - markglasgow@gmail.com
 [forks-url]: https://github.com/glasgowm148/Dolos/network/members
 [stars-shield]: https://img.shields.io/github/stars/glasgowm148/Dolos.svg?style=for-the-badge
 [stars-url]: https://github.com/glasgowm148/Dolos/stargazers
-[issues-shield]: https://img.shields.io/github/issues/glasgowm148/Dolos.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/glasgowm148/Dolos/issues
-[license-shield]: https://img.shields.io/github/license/glasgowm148/Dolos.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/glasgowm148/Dolos/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/glasgowmark/
