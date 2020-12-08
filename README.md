@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Dolos Screen Shot][dolos/data/img/logo.png]
+![Dolos Screen Shot][dolos/data/img/screenshot.png]
 
 
 ### Built With
@@ -163,9 +163,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mark Glasgow - markglasgow@gmail.com
 
-Project Link: [https://github.com/glasgowm148/Dolos](https://github.com/glasgowm148/Dolos)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -174,7 +171,7 @@ Project Link: [https://github.com/glasgowm148/Dolos](https://github.com/glasgowm
 * [msgvote](https://github.com/flapjax/FlapJack-Cogs/tree/red-v3-rewrites/msgvote)
 * [Leaderboard](https://github.com/Predeactor/Predeactor-Cogs)
 * [Bookmark](https://gitlab.com/CrunchBangDev/cbd-cogs)
-* Created in part with [Hugh Merrell](https://github.com/Merrell17) , [Valerie Kwan](https://github.com/FlowerVal) and [Erin Connolly](https://github.com/econnolly27)
+* Created in part with [Hugh Merrell](https://github.com/Merrell17), [Valerie Kwan](https://github.com/FlowerVal) and [Erin Connolly](https://github.com/econnolly27)
 
 
 
