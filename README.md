@@ -1,25 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** glasgowm148, dolos, , markglasgow@gmail.com, Dolos, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -32,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/glasgowm148/dolos">
+  <a href="https://github.com/glasgowm148/Dolos">
     <img src="data/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,14 +19,14 @@
   <p align="center">
     A proof-of-concept fake news detection cog for RedBot
     <br />
-    <a href="https://github.com/glasgowm148/dolos"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/glasgowm148/Dolos"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/glasgowm148/dolos">View Demo</a>
+    <a href="https://github.com/glasgowm148/Dolos">View Demo</a>
     ·
-    <a href="https://github.com/glasgowm148/dolos/issues">Report Bug</a>
+    <a href="https://github.com/glasgowm148/Dolos/issues">Report Bug</a>
     ·
-    <a href="https://github.com/glasgowm148/dolos/issues">Request Feature</a>
+    <a href="https://github.com/glasgowm148/Dolos/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +67,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`glasgowm148`, `dolos`, ``, `markglasgow@gmail.com`, `Dolos`, `project_description`
+`glasgowm148`, `Dolos`, ``, `markglasgow@gmail.com`, `Dolos`, `project_description`
 
 
 ### Built With
@@ -117,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/glasgowm148/dolos.git
+   git clone https://github.com/glasgowm148/Dolos.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +116,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/glasgowm148/dolos/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/glasgowm148/Dolos/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,9 +143,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@](https://twitter.com/) - markglasgow@gmail.com
+Mark Glasgow - markglasgow@gmail.com
 
-Project Link: [https://github.com/glasgowm148/dolos](https://github.com/glasgowm148/dolos)
+Project Link: [https://github.com/glasgowm148/Dolos](https://github.com/glasgowm148/Dolos)
 
 
 
