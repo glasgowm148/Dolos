@@ -63,14 +63,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Dolos Screen Shot][dolos/data/img/screenshot.png]
+![Dolos Screen Shot](dolos/data/img/screenshot.png)
 
 
 ### Built With
 
 * []()[RedBot](https://github.com/Cog-Creators/Red-DiscordBot)
 * []()Pyenv + Python 3
-* []()
 
 
 
@@ -78,11 +77,6 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-* Red-Bot
-* Python
 
 ### Installation
 
@@ -123,9 +117,9 @@ Bio is basically a key/value store for each user where the allowed keys are dete
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Overview
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+There is an accompanying report which will give a greater insight into the uses for this cog
 
 _For more examples, please refer to the [Documentation](https://github.com/glasgowm148/Dolos/dolos/docs)_
 
