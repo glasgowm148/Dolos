@@ -127,7 +127,7 @@ Bio is basically a key/value store for each user where the allowed keys are dete
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/glasgowm148/Dolos/dolos/docs)_
 
 
 
@@ -171,8 +171,10 @@ Project Link: [https://github.com/glasgowm148/Dolos](https://github.com/glasgowm
 ## Acknowledgements
 
 * This project was initially built as part of Human Computer Interaction at The University of Glasgow
-* []()
-* []()
+* [msgvote](https://github.com/flapjax/FlapJack-Cogs/tree/red-v3-rewrites/msgvote)
+* [Leaderboard](https://github.com/Predeactor/Predeactor-Cogs)
+* [Bookmark](https://gitlab.com/CrunchBangDev/cbd-cogs)
+* Created in part with [Hugh Merrell](https://github.com/Merrell17) , [Valerie Kwan](https://github.com/FlowerVal) and [Erin Connolly](https://github.com/econnolly27)
 
 
 

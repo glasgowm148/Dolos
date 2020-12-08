@@ -38,7 +38,6 @@ that we have utilised.
 
 - Message React functionality: https://github.com/flapjax/FlapJack-Cogs/tree/red-v3-rewrites/msgvote : MIT License
 - Leaderboard cog:
-- msgvote
 
 '''
 
