@@ -75,7 +75,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+(Note: To test after moving directory. Likely broken urls/steps missing - TODO)
 To get a local copy up and running follow these simple steps.
 
 ### Installation
